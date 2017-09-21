@@ -1,0 +1,16 @@
+PODS:
+  - WDActivityIndicator (0.1.0)
+
+DEPENDENCIES:
+  - WDActivityIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  WDActivityIndicator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WDActivityIndicator: 331025cbfa437ed6dd0e4a13bcc62e5842794631
+
+PODFILE CHECKSUM: f643024fb0b10d0ac0c5ef21a4f103ab87baf40b
+
+COCOAPODS: 1.2.1

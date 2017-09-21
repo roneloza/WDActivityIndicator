@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WDActivityIndicator_Example' do
+  pod 'WDActivityIndicator', :path => '../'
+
+  target 'WDActivityIndicator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
